@@ -24,6 +24,7 @@ int main(void)
 
     printf("%o, %x\n", octNum, hexNum);
     printf("%d, %d\n", octNum, hexNum);
+    printf("%d, %d\n", octNum, hexNum);
     
     return 0;
 }
